@@ -7,10 +7,10 @@ Este é um Projeto da **Formação GitHub Certification da DIO**, focado em prat
 * Formatar um bom `README.md` com Markdown.
 
 ## 🛠️ Ferramentas Utilizadas
-- Git;
-- GitHub;
-- Markdown;
-- VS Code (ou GitHub.dev).
+- Git
+- GitHub
+- Markdown
+- VS Code (ou GitHub.dev)
 
 ## 🔗 Links Úteis
 - [Minha Página de Perfil DIO](https://web.dio.me/users/SEU-PERFIL)
